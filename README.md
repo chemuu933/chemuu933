@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome ! I’m chemuu933.<br>I’m a website and software developer focused on building modern, <br>user-friendly applications while continuously improving my technical skills. <br>I work on freelance projects, contribute to open-source initiatives, <br>and enjoy learning new technologies that help me create efficient <br>and scalable solutions. I’m always open to collaboration <br>and new opportunities to grow.<br>
+Welcome ! I’m chemuu933.<br> a website and software developer focused on building modern, <br>user-friendly applications while continuously improving my technical skills. <br>I work on freelance projects, contribute to open-source initiatives, <br>and enjoy learning new technologies that help me create efficient <br>and scalable solutions. I’m always open to collaboration <br>and new opportunities to grow.<br>
 
 
 ## 🌐 Socials:
